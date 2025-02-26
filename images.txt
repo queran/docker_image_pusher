@@ -1,4 +1,2 @@
-es01
 ragflow
 mysql
-minio
